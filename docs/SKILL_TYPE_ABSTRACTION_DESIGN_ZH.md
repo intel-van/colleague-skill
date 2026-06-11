@@ -814,3 +814,7 @@ Phase 2 真正该先做的，不是多加几个 `/create-xxx` 命令。
 都会顺很多。
 
 如果这层不先做，后面每加一个类型，仓库里就会多一套复制粘贴出来的流程，最后反而把 roadmap 自己卡死。
+
+---
+
+[← 返回主 README](../README.md) · [📋 PRD →](PRD.md) · [🔬 深度分析 →](DEEP_ANALYSIS.md) · [English Version](SKILL_TYPE_ABSTRACTION_DESIGN.md)

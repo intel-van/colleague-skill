@@ -4,6 +4,10 @@
 
 ### *"You folks building LLMs are all code-sages! Flesh is weak! Ascend to cyberspace!"*
 
+> 📌 The primary README (Chinese) has been moved to [README.md](../../README.md). This file is the multi-language backup.
+
+[← Back to main README](../../README.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
@@ -381,3 +385,7 @@ dot-skill/
 <sub>Made with 🧬 for everyone who wants to distill a person into a skill.</sub>
 
 </div>
+
+---
+
+[← Back to main README](../../README.md) · [📖 Deep Analysis →](../../docs/DEEP_ANALYSIS.md)

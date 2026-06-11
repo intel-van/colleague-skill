@@ -432,3 +432,7 @@ user-invocable: true
 - 生成的 Skill 不自动推断飞书 API token，飞书消息需用户手动导出
 - Correction 层最多保留 50 条，超出后合并归纳
 - 版本存档最多保留 10 个版本
+
+---
+
+[← 返回主 README](../README.md) · [🏗️ 类型抽象设计 →](SKILL_TYPE_ABSTRACTION_DESIGN_ZH.md) · [🔬 深度分析 →](DEEP_ANALYSIS.md)

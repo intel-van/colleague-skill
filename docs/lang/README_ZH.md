@@ -1,3 +1,9 @@
+> 📌 **中文 README 主版本已移至根目录 [README.md](../../README.md)**。本文档作为多语言备份保留。
+
+[← 返回主 README](../../README.md)
+
+---
+
 <div align="center">
 
 # 🧬 dot-skill（同事.skill）
@@ -376,3 +382,7 @@ dot-skill/
 <sub>Made with 🧬 for everyone who wants to distill a person into a skill.</sub>
 
 </div>
+
+---
+
+[← 返回主 README](../../README.md) · [📖 深度阅读 →](../../docs/DEEP_ANALYSIS.md)

@@ -1,0 +1,18 @@
+# dot-skill — GitHub Pages 配置
+# 确保 docs/ 及子目录下的 Markdown 被正确渲染
+
+title: dot-skill
+description: 把任何人蒸馏成 AI Skill——用他的方式思考，用他的口吻说话
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - docs/
+  - docs/lang/
+  - docs/assets/
+  - CONTRIBUTING.md
+  - INSTALL.md
+  - ROADMAP.md

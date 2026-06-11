@@ -283,3 +283,7 @@ budget-unfriendly 的 validation 阶段要做已知答案检查：拿人物确�
 4. **诚实架构** — 知道不知道什么，比知道什么更重要
 5. **全跳过设计** — 降低使用门槛，让用户"先进来"
 6. **对话式纠错** — 运行时校准，无需理解文件结构
+
+---
+
+[← 返回主 README](../README.md) · [📋 PRD →](PRD.md) · [🏗️ 类型抽象设计 →](SKILL_TYPE_ABSTRACTION_DESIGN_ZH.md)

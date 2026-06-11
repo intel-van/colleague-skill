@@ -755,3 +755,7 @@ That is the smallest change that unlocks:
 - future multi-skill orchestration
 
 without turning the codebase into repeated type-specific forks.
+
+---
+
+[← Back to main README](../README.md) · [📋 PRD →](PRD.md) · [🔬 Deep Analysis →](DEEP_ANALYSIS.md) · [中文版](SKILL_TYPE_ABSTRACTION_DESIGN_ZH.md)
